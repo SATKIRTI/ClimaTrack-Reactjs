@@ -523,30 +523,30 @@ div#txt {
     font-size: 14px;
   }
   .date-time {
-    width: 100%;
+    width: 75%;
     padding: 0;
   }
   .dmy {
     padding: 0;
     margin-bottom: 35px;
     text-align: center;
-    width: 100%;
+    width: 75%;
   }
   div#txt {
     font-size: 30px;
   }
   .date {
-    font-size: 22px;
+    font-size: 20px;
   }
   .temperature {
     text-align: center;
-    width: 100%;
+    width: 42%;
   }
   .copyright {
     padding: 20px;
   }
   .temperature p {
-    font-size: 60px;
+    font-size: 58px;
     padding-bottom: 15px;
   }
   .forecast-icon img {
